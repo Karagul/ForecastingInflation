@@ -16,3 +16,9 @@ Forecasting Inflation in a data-rich environment: the benefits of machine learni
 - Codes are divided in one folder for each subsample used in the paper.
 - Each folder contains one folder with functions and one folder with codes to call and run the functions. PATHS MUST BE ADJUSTED.
 - If the paths are correct, running the files in the RUN folders will start the rolling windows.
+- Data are already treated as descriped in the paper. 
+
+
+## References
+
+Medeiros, M. C., Vasconcelos, G., Veiga, A., & Zilberman, E. (2018). Forecasting Inflation in a data-rich environment: the benefits of machine learning methods.
